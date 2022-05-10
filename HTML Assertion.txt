@@ -1,0 +1,45 @@
+line 4 column 9 - Warning: <meta> lacks "content" attribute
+line 127 column 16 - Warning: unknown attribute "property"
+line 127 column 54 - Warning: unknown attribute "property"
+line 127 column 102 - Warning: unknown attribute "property"
+line 128 column 9 - Warning: <script> lacks "type" attribute
+line 137 column 9 - Warning: <style> isn't allowed in <body> elements
+line 184 column 15 - Warning: <style> isn't allowed in <body> elements
+line 188 column 15 - Warning: <style> isn't allowed in <body> elements
+line 291 column 9 - Warning: <style> isn't allowed in <body> elements
+line 297 column 17 - Warning: unknown attribute "sizes"
+line 297 column 17 - Warning: link isn't allowed in <body> elements
+line 298 column 1 - Warning: unknown attribute "sizes"
+line 298 column 1 - Warning: link isn't allowed in <body> elements
+line 299 column 1 - Warning: link isn't allowed in <body> elements
+line 300 column 1 - Warning: meta isn't allowed in <body> elements
+line 301 column -3 - Warning: </head> isn't allowed in <body> elements
+line 303 column 1 - Warning: unknown attribute "data-rsssl"
+line 303 column 1 - Warning: <body> isn't allowed in <body> elements
+line 313 column 9 - Error: <header> is not recognized!
+line 313 column 9 - Warning: discarding unexpected <header>
+line 323 column 50 - Warning: missing </a> before <h1>
+line 325 column 21 - Warning: discarding unexpected </a>
+line 329 column 59 - Warning: trimming empty <span>
+line 330 column 49 - Warning: trimming empty <button>
+line 331 column 50 - Error: <nav> is not recognized!
+line 331 column 50 - Warning: discarding unexpected <nav>
+line 332 column 257 - Warning: unknown attribute "aria-current"
+line 336 column 53 - Warning: discarding unexpected </nav>
+line 340 column 191 - Warning: trimming empty <i>
+line 345 column 5 - Warning: discarding unexpected </header>
+line 352 column 9 - Warning: unknown attribute "role"
+line 355 column 17 - Error: <main> is not recognized!
+line 355 column 17 - Warning: discarding unexpected <main>
+line 359 column 25 - Error: <section> is not recognized!
+line 359 column 25 - Warning: discarding unexpected <section>
+line 363 column 1 - Error: <article> is not recognized!
+line 363 column 1 - Warning: discarding unexpected <article>
+line 367 column 9 - Error: <header> is not recognized!
+line 367 column 9 - Warning: discarding unexpected <header>
+line 371 column 5 - Warning: discarding unexpected </header>
+InputStream: Doctype given is ""
+InputStream: Document content looks like HTML 4.01 Transitional
+130 warnings, 38 errors were found!
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
